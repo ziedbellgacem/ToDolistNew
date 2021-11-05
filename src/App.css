@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  margin: 50px 30%;
+  width: auto;
+}
+
+.add {
+  display: flex;
+}
+
+.task {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
